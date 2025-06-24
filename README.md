@@ -23,13 +23,11 @@
 <p align="center">
   <!-- Langs -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-  <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
-  <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,vscode,notion" />
 </p>
