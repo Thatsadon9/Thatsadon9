@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Thatsadon 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Developer;Fullstack+Designer;AI+and+UX+Enthusiast" alt="Typing SVG" />
 </p>
@@ -13,38 +14,41 @@
 
 - 🚀 Passionate about building smart & meaningful digital products  
 - 🧩 Love clean UI, intuitive UX, and real-world impact  
-- 🎯 Currently developing: Ong-Or,Throw2Go,SongThaewGo  
-- 📨 Reach me: ninethatsadon.tkl@gmail.com
+- 🎯 Currently developing: **Ong-Or**, **Throw2Go**, **SongThaewGo**  
+- 📫 Contact me via email: [ninethatsadon.tkl@gmail.com](mailto:ninethatsadon.tkl@gmail.com)
 
 ---
 
 ### ⚙️ Tech Stack
 
-<p align="center">
-  <!-- Langs -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
-  <!-- Frontend -->
+#### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cs,cpp,html,css" />
+</p>
+
+#### Libraries & Frameworks
+<p>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,notion" />
+</p>
+
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode,notion,figma" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project     | Description                                                  | Tech                          |
-|-------------|--------------------------------------------------------------|-------------------------------|
-| **SongThaewGo**   | Location Tracker Application For SongThaew In Thailand             | React, Firebase, Sensors      |
-| **Ong-Or**      | Brain-training game using body motion recognition       | Unity, ML, Gamification       |
-| **Throw2Go**    | Real-time QR-based smart waste tracking system          | App, IoT, Dynamic QR          |
+| Project         | Description                                                        | Tech                          |
+|-----------------|--------------------------------------------------------------------|-------------------------------|
+| **SongThaewGo** | Location tracker app for Songthaew (Thai local public transport)   | React, Firebase, Realtime DB  |
+| **Ong-Or**      | Brain-training game for seniors using body motion recognition      | Unity, ML, Gamification       |
+| **Throw2Go**    | Smart waste tracking system with QR verification & gamification    | App, IoT, Dynamic QR          |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thatsadon9&show_icons=true&theme=radical" width="45%" />
@@ -57,4 +61,12 @@
 
 ---
 
-<sub align="center">⚡ Updated by <strong>Thatsadon9</strong> · Minimal is beautiful.</sub>
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:ninethatsadon.tkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<sub align="center">⚡ Updated by <strong>Thatsadon9</strong> · Clean design, clear intent.</sub>
