@@ -21,25 +21,27 @@
 
 ## ⚙️ Tech Stack
 
-#### Programming Languages
+#### 🧠 Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cs,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,bootstrap,nodejs" />
 </p>
 
-#### Libraries & Frameworks
+#### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,notion,figma,replit,netlify,vercel" />
 </p>
 
-#### Tools & Platforms
+#### 🎨 Design & Creative
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode,notion,arduino" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,canva" />
 </p>
 
-#### Design & Creative
+#### 🎮 3D / Game / IoT
 <p>
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,arduino" />
 </p>
+
 
 ---
 
