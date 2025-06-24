@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Thatsadon 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Developer;Fullstack+Explorer;AI+and+UX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Creative+Developer;Fullstack+Designer;AI+and+UX+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 - 🚀 Passionate about building smart & meaningful digital products  
 - 🧩 Love clean UI, intuitive UX, and real-world impact  
-- 🎯 Currently developing: SmartBin+, Ong-Or, Throw2Go  
+- 🎯 Currently developing: Ong-Or,Throw2Go,SongThaewGo  
 - 📨 Reach me: ninethatsadon.tkl@gmail.com
 
 ---
@@ -40,7 +40,7 @@
 
 | Project     | Description                                                  | Tech                          |
 |-------------|--------------------------------------------------------------|-------------------------------|
-| **SmartBin+**   | Gamified smart bin to reward waste sorting             | React, Firebase, Sensors      |
+| **SongThaewGo**   | Location Tracker Application For SongThaew In Thailand             | React, Firebase, Sensors      |
 | **Ong-Or**      | Brain-training game using body motion recognition       | Unity, ML, Gamification       |
 | **Throw2Go**    | Real-time QR-based smart waste tracking system          | App, IoT, Dynamic QR          |
 
