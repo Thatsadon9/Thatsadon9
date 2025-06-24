@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🚀 Passionate about building smart & meaningful digital products  
-- 🧩 Love clean UI, intuitive UX, and real-world impact  
+- 🎓 Currently studying at Yupparaj Wittayalai School Since 2022
 - 🎯 Currently developing: **Ong-Or**, **Throw2Go**, **SongThaewGo**  
 - 📫 Contact me via email: [ninethatsadon.tkl@gmail.com](mailto:ninethatsadon.tkl@gmail.com)
 
