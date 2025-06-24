@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 - 🚀 Passionate about building smart & meaningful digital products  
 - 🧩 Love clean UI, intuitive UX, and real-world impact  
@@ -19,7 +19,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 #### Programming Languages
 <p>
@@ -28,17 +28,22 @@
 
 #### Libraries & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,vite" />
 </p>
 
 #### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,vscode,notion,arduino" />
+</p>
+
+#### Design & Creative
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
 </p>
 
 ---
 
-### 🌟 Featured Projects
+## 🌟 Featured Projects
 
 | Project         | Description                                                        | Tech                          |
 |-----------------|--------------------------------------------------------------------|-------------------------------|
@@ -48,7 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thatsadon9&show_icons=true&theme=radical" width="45%" />
