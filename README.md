@@ -1,60 +1,76 @@
-<h1 align="center">Hi there 👋, I'm Thatsadon</h1>
-<h3 align="center">A Creative Developer | Fullstack Designer | AI Lover</h3>
+<h1 align="center">Thatsadon9</h1>
+<p align="center">Creative Developer · Fullstack Explorer · Product Thinker</p>
 
+<br/>
 
+<div align="center">
 
-### 🛠 Tech Stack
+Passionate about turning ideas into scalable products.  
+Lover of clean code, clever UX, and meaningful technology.  
+Currently building smart tech for sustainability & brain health.
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+</div>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+---
 
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+### 🧰 Tech Stack
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+<div align="center">
 
-### ✨ Highlight Projects
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **SmartBin+ ♻️** | Gamified waste sorting system for sustainability | React, Firebase, QR, Sensors |
-| **Ong-Or 🧠** | Brain training app for seniors using motion recognition | Unity, ML, Gamification |
-| **Throw2Go 🚀** | Pitch-winning smart waste tracker | App + IoT + Dynamic QR |
+<br/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project     | Description                                                  | Tech                          |
+|-------------|--------------------------------------------------------------|-------------------------------|
+| SmartBin+   | Gamified smart bin to reward waste sorting                  | React, Firebase, Sensors      |
+| Ong-Or      | Brain-training game using body motion recognition            | Unity, ML, Gamification       |
+| Throw2Go    | Real-time QR-based smart waste tracking system               | App, IoT, Dynamic QR          |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thatsadon9&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thatsadon9&layout=compact&theme=radical" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thatsadon9&show_icons=true&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thatsadon9&layout=compact&theme=transparent" width="45%" />
 </p>
 
 ---
 
-### 🧩 Facts
+### 📬 Contact
 
-- 🔭 I’m currently building: Smart + Sustainable Tech
-- 🌱 Always learning: AI, Blockchain, UX
-- ⚡ Fun fact: I think in systems... but dream in stories.
+<div align="center">
+  <a href="mailto:ninethatsadon.tkl@gmail.com">Email</a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  <a href="mailto:ninethatsadon.tkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+<sub align="center">crafted with clean code · updated frequently · last edited by Thatsadon9</sub>
