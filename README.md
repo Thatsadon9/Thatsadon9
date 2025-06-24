@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Jason</h1>
 <h3 align="center">A Creative Developer | Fullstack Explorer | AI Lover</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+Code+with+Purpose.;Passionate+about+AI+%2B+Creativity.;Building+ideas+into+products.💡" alt="Typing SVG" />
-</p>
+
 
 ---
 
@@ -21,7 +19,6 @@
 
 **Backend & DB**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)  
 
 **Tools & Platforms**  
@@ -44,13 +41,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thatsadon9&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thatsadon9&layout=compact&theme=radical" alt="Top Langs" height="160" />
 </p>
 
 ---
 
-### 🧩 Fun Facts
+### 🧩 Facts
 
 - 🔭 I’m currently building: Smart + Sustainable Tech
 - 🌱 Always learning: AI, Blockchain, UX
@@ -63,6 +60,5 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ninethatsadon.tkl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
